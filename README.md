@@ -23,4 +23,4 @@ Execute `./start.sh`.
 Be sure to post a Github issue if you find a bug, something you don't like or if something is wrong or should be changed. You can also submit a Pull request if you have a ready improvement.
 
 ## Contribute
-I'm looking for lots of help to improve documentation and user experience.
+Help is always welcome.  If you want to help me make this project great say something in the Github issues section.
