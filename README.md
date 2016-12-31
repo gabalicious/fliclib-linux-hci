@@ -7,8 +7,8 @@ Tested on Raspbian for Raspberry Pi
 ## Running
 
 ### First time setup and run:
-- Start the Daemon by runnnig ```sudo ./flicd -f flic.sqlite3``` in /bin/arm6l
-
+- Start the Daemon Bluetooth Server by runnnig ```sudo ./flicd -f flic.sqlite3``` in /bin/arm6l
+- Start the Node Client by runnnig ```node main.js``` in /clientlib/nodejs
 
 ### Todo
 - Add a raspberry pi script to restart and launch daemon
