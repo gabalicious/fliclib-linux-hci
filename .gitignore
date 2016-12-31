@@ -1,0 +1,5 @@
+*.DS_Store
+.ftpconfig
+*.sqlite3
+clientlib/nodejs/node_modules/
+simpleclient/simpleclient
